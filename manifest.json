@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "SoundCloud Playlist Shuffle",
+  "version": "1.0",
+  "description": "Кнопка, которая реально перемешивает порядок треков в твоём плейлисте на SoundCloud.",
+  "content_scripts": [
+    {
+      "matches": ["https://soundcloud.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
