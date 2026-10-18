@@ -21,7 +21,6 @@ Coming soon.
 ### Option 2: Manual install (Chrome, Edge, Brave, Opera, other Chromium browsers)
 
 1. Download this repository: click Code → Download ZIP, then unzip it.
-   (Or run: git clone https://github.com/YOUR_USERNAME/soundcloud-playlist-shuffle.git)
 2. Open the extensions page:
    - Chrome: chrome://extensions
    - Edge: edge://extensions
